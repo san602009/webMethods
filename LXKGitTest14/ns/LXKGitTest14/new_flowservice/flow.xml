@@ -16,4 +16,8 @@
 <INVOKE TIMEOUT="" SERVICE="LXKGitTest15:new_flowservice" VALIDATE-IN="$none" VALIDATE-OUT="$none">
   <COMMENT></COMMENT>
 </INVOKE>
+
+<INVOKE TIMEOUT="" SERVICE="LXKGitTest15:aaFlowService" VALIDATE-IN="$none" VALIDATE-OUT="$none">
+  <COMMENT></COMMENT>
+</INVOKE>
 </FLOW>

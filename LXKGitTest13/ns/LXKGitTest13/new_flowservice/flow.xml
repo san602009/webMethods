@@ -8,4 +8,8 @@
 <MAP TIMEOUT="" MODE="STANDALONE">
   <COMMENT>hi sandeep</COMMENT>
 </MAP>
+
+<INVOKE TIMEOUT="" SERVICE="LXKGitTest15:new_flowservice_2" VALIDATE-IN="$none" VALIDATE-OUT="$none">
+  <COMMENT></COMMENT>
+</INVOKE>
 </FLOW>

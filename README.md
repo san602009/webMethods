@@ -1,2 +1,0 @@
-# lxkWebMethods
-POC
